@@ -1,0 +1,1 @@
+const name = "솔민";
